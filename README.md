@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=I'm conqueror!!🐲&fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=정복자 이규진의 깃땁!!🐲&fontSize=90&animation=twinkling" />
 <div>
 > I ❤️ BackEndDev
 <a href="https://github.com/wonyongChoi05"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwonyongChoi05&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
@@ -24,11 +24,6 @@
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
   <div>
       
-  <div>
-  <h2>DevOps</h2>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   <div>
     
   <div>

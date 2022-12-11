@@ -3,8 +3,10 @@
 <p align="center">
    <h1>
       BACK-END DEVELOPER 😎 <br>
-  <a href="https://www.instagram.com/x_xxi_lkj/"><b>INSTAGRAM</b></a> 
-  <a href="https://phillnam.tistory.com"><b>TISTORY<b></a>
-</h1>
+   </h1>
+   <h3>
+      <a href="https://www.instagram.com/x_xxi_lkj/"><b>INSTAGRAM</b></a> 
+     <a href="https://phillnam.tistory.com"><b>TISTORY<b></a>
+   </h3>
 <!--    <img width="700px" height="300" src="https://backend.artreview.com/wp-content/uploads/2021/03/new32590076658_4e61585bb5_o.jpg"> -->
 </p>

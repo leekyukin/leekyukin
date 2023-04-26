@@ -4,7 +4,7 @@
    <h1>NOTICE: 영어공부하고 옴 💪 강해져서 돌아온다<h1>
    <h1>
       I am the conqueror of the world in 2030 <br>
-      BACK-END DEVELOPER 😎    <p style="color:red;">who love challenging projects</p>  
+      BACK-END DEVELOPER 😎    <p style="color:red;">who loves challenging projects</p>  
    </h1>
    <h3>
       <a href="https://www.instagram.com/x_xxi_lkj/"><b>INSTAGRAM</b></a> /
